@@ -1,5 +1,5 @@
 # OOPS
-# Definations in 1 word
+# Definations in words
 They are Classified into 4 types:
 1. Abstraction - Hiding it's Implementation details and showing only functionality to End-users & either the class or the method has to be declared as Abstract Keyword.
 2. Encapsulation - Wrapping the Data (variables as private) and methods (setter & getter) into the single unit.
